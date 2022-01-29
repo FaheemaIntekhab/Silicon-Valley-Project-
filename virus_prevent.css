@@ -1,0 +1,25 @@
+#heading_prevent
+{
+    font-family:fantasy;
+    color:#1D8086;
+    font-size:50px;
+}
+#dude_lol
+{
+    font-family:cursive;
+    color:#1D8086;
+    font-size:20px;
+}
+body
+{
+    background-color:#fdff97;
+}
+#button
+{
+    background-color:#A93D62;
+    border: none;
+    font-size:20px;
+    color: #FFFFFF;
+    width: 150px;
+    height:100px;
+}
